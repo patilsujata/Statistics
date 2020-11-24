@@ -1,0 +1,42 @@
+Normal Distribution:-
+1) Normal Distribution is also known as the Gaussian distribution and the bell curve.
+2) The normal distribution is a probability function that describes how the values of a variable are distributed.
+3) They’re all symmetric about the center. The normal distribution cannot model skewed distributions.
+4) The mean, median, and mode are all equal.
+5) Half of the population is less than the mean and half is greater than the mean.
+
+Parameters of the Normal Distribution:-
+The parameters for the normal distribution define its shape and probabilities entirely.
+The normal distribution has two parameters:
+1) Mean:-
+   Mean defines the location of the peak for normal distributions. 
+   Most values cluster around the mean. On a graph, changing the mean shifts the entire curve left or right on the X-axis.
+ 
+2) Standard Deviation:-
+   Standard Deviation defines the width of the normal distribution. 
+   The standard deviation determines how far away from the mean the values tend to fall. 
+   It represents the typical distance between the observations and the average.
+   On a graph, changing the standard deviation either tightens or spreads out the width of the distribution along the X-axis. 
+   Larger standard deviations produce distributions that are more spread out.
+
+Formula for Normal Distribution:-
+The Normal Equation. The value of the random variable Y is:
+                                 Y = { 1/[ σ * sqrt(2π) ] } * e-(x - μ)2/2σ2
+where X is a normal random variable, μ is the mean, σ is the standard deviation, π is approximately 3.14159, and 
+e is approximately 2.71828.
+
+Empirical Rule for normal distributions:-
+In all normal distributions, the Empirical Rule tells us that:
+1) About 68% of all data values will fall within +/- 1 standard deviation of the mean.
+2) About 95% of all data values will fall within +/- 2 standard deviations of the mean.
+3) About 99.7% of all data values will fall within +/- 3 standard deviations of the mean.
+
+Example:-
+A certain variety of pine tree has a mean trunk diameter of μ=150cm and a standard deviation σ=30cm
+Approximately what percent of these trees have a diameter greater than 210cm?
+Solution:-
+Step 1: Sketch a normal distribution with a mean μ=150cm and a standard deviation σ=30cm
+Step 2: The diameter of 210cm is two standard deviations above the mean. Shade above that point.
+Step 3: Add the percentages in the shaded area:
+                2.35%+0.15%=2.5%
+About 2.5% of these trees have a diameter greater than 210cm.
